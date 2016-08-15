@@ -1,0 +1,72 @@
+/* MOVIL VERTICAL */
+
+
+@media only screen and (min-width: 100%;) {
+    
+}
+
+.container{
+	width:100%;
+	margin: 0px auto;
+	max-width: 100%;
+}
+
+
+[class*="col-"] {
+    width: 100%;
+}
+
+h1 {
+	font-size: 3em;
+	width: 50%;
+	
+}
+
+.texto {
+	width: 50%;
+}
+
+
+* {
+	font-family: Open Sans;
+}
+
+
+
+a {
+	text-decoration: none;
+	margin-right: 20px;
+	display: inline;
+}
+
+section {
+	background-color: gray;
+	color: white;
+	padding: 2%;
+}
+
+.logo {
+	height: 40px;
+	width: 150px;
+	display: inline;
+}
+
+.form {
+	background-color: #C0C0C0;
+	width: 200px;
+	height: 150px;
+	border-radius: 20px;
+	padding: 20px;
+	text-align: center;
+}
+
+.boton {
+	background-color: #5882FA;
+	border-radius: 5px;
+	color: white;
+	width: 65%;
+}
+
+span {
+	color: blue
+}
